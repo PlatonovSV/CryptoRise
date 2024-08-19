@@ -8,7 +8,6 @@ CryptoRise App
 - Retrofit
 - Kotlinx Serialization
 - Coroutines
-
 - Hilt
 - Coil
 
